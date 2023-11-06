@@ -1,5 +1,0 @@
-# Created at 2023-10-25T12:20:51.519
-Boot Manifest-JAR contains absolute paths in classpath 'E:\Edureka_Devops\Projects\Project - 1\industry_grade project 1\Industry Grade Project I - Java Project\ABC Technologies\target\test-classes'
-Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
-'other' has different root
-
